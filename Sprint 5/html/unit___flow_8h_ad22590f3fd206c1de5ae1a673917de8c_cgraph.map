@@ -1,0 +1,23 @@
+<map id="run_unit_tests_Flow" name="run_unit_tests_Flow">
+<area shape="rect" id="node1" title=" " alt="" coords="5,252,144,277"/>
+<area shape="rect" id="node2" href="$unit___flow_8cpp.html#a69aad8956638065a6792e35e376dc53d" title=" " alt="" coords="192,5,348,31"/>
+<area shape="rect" id="node5" href="$unit___flow_8cpp.html#a1c712a1727a075993df966a9a9af68dd" title=" " alt="" coords="197,252,343,277"/>
+<area shape="rect" id="node8" href="$unit___flow_8cpp.html#a4b6e7371ad9b3059a32e0b1600e653a3" title=" " alt="" coords="195,203,345,228"/>
+<area shape="rect" id="node10" href="$unit___flow_8cpp.html#ae158212a296c723df96316c44c67a045" title=" " alt="" coords="199,449,341,475"/>
+<area shape="rect" id="node11" href="$unit___flow_8cpp.html#afde1feedc7a89ff8baf0a88d1afc35f2" title=" " alt="" coords="205,499,335,524"/>
+<area shape="rect" id="node13" href="$unit___flow_8cpp.html#acc7d10b32f5d7f1e61c7c1966063c02f" title=" " alt="" coords="197,55,343,80"/>
+<area shape="rect" id="node14" href="$unit___flow_8cpp.html#a30b651e051db0b3535b2137de3b12b1c" title=" " alt="" coords="202,351,338,376"/>
+<area shape="rect" id="node15" href="$unit___flow_8cpp.html#a6e3b36b0a740bdf01cd52b9c768650a3" title=" " alt="" coords="202,153,338,179"/>
+<area shape="rect" id="node16" href="$unit___flow_8cpp.html#a70cdfcdd0e96446a552a03e6a9c5c594" title=" " alt="" coords="197,104,343,129"/>
+<area shape="rect" id="node18" href="$unit___flow_8cpp.html#ad3ef81bd4e2b09e9aed2ba9142e891bf" title=" " alt="" coords="202,400,338,425"/>
+<area shape="rect" id="node20" href="$unit___flow_8cpp.html#a3dcc41e36a7f64cd487c3a0ef58df4cf" title=" " alt="" coords="202,301,338,327"/>
+<area shape="rect" id="node3" href="$class_flow.html#a34930b1443f5ba4c737a08f02acef963" title="Clear the Flow destiny." alt="" coords="396,5,525,31"/>
+<area shape="rect" id="node4" href="$class_flow.html#a66609d63cf29a174b9f39942b0565815" title="Get the Flow destiny." alt="" coords="401,55,520,80"/>
+<area shape="rect" id="node6" href="$class_flow.html#af81bf8c5d707005527701084cf2a65f2" title="Clear the Flow origin." alt="" coords="401,252,520,277"/>
+<area shape="rect" id="node7" href="$class_flow.html#abb45b016bc3b6351cca07763374a7d12" title="Get the Flow origin." alt="" coords="406,203,515,228"/>
+<area shape="rect" id="node9" href="$class_flow.html#a668fb88b38beb0b3b00a193fd49ad6eb" title="Get the Flow name." alt="" coords="406,351,515,376"/>
+<area shape="rect" id="node12" href="$class_flow.html#a619be0b590c78202127bc6ac7fb04029" title="Purely virtual method that calculates the Flow value." alt="" coords="409,499,512,524"/>
+<area shape="rect" id="node17" href="$class_flow.html#aba58328c690e77264560bede920db84b" title="Set the Destiny Flow." alt="" coords="401,104,520,129"/>
+<area shape="rect" id="node19" href="$class_flow.html#a4716e8abfb850a44a7e558db2980197e" title="Set the Name Flow." alt="" coords="406,400,515,425"/>
+<area shape="rect" id="node21" href="$class_flow.html#a3d1fc14bd7e17fab2f6ec4e9bfe2ee6c" title="Set the Origin Flow." alt="" coords="406,301,515,327"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="logisticalFuncionalTest" name="logisticalFuncionalTest">
+<area shape="rect" id="node1" title="Logistical test." alt="" coords="5,55,160,80"/>
+<area shape="rect" id="node2" href="$class_model.html#a70362afdd9db6268b4adaedfeddb2935" title="Add a System to the Model." alt="" coords="228,5,315,31"/>
+<area shape="rect" id="node3" href="$class_system.html#a4c60d8b2625acf47c246008ba89cb04d" title="Get the System value." alt="" coords="208,55,335,80"/>
+<area shape="rect" id="node4" href="$class_model.html#a8ced3298195ab241b63083a128a1658c" title="Run the model." alt="" coords="230,104,313,129"/>
+</map>

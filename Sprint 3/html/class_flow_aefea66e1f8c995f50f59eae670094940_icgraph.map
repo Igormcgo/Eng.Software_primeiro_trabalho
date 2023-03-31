@@ -1,0 +1,5 @@
+<map id="Flow::getOrigin" name="Flow::getOrigin">
+<area shape="rect" id="node1" title="Get the Flow origin." alt="" coords="224,31,333,56"/>
+<area shape="rect" id="node2" href="$class_exponential_flow.html#a71891b35beb72d8e444d49f7d70d5765" title="Purely virtual method that calculates the Flow value." alt="" coords="5,5,176,31"/>
+<area shape="rect" id="node3" href="$class_model_flow.html#a1a73c87f18834adcbd583442fa213af7" title="Purely virtual method that calculates the Flow value." alt="" coords="21,55,160,80"/>
+</map>

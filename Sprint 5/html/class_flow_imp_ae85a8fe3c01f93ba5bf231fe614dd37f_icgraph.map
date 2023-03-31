@@ -1,0 +1,4 @@
+<map id="FlowImp::getDestiny" name="FlowImp::getDestiny">
+<area shape="rect" id="node1" title="Get the Flow destiny." alt="" coords="201,5,341,31"/>
+<area shape="rect" id="node2" href="$class_logistic_flow.html#ab1a4968215b07a26848730c39e14a919" title="Purely virtual method that calculates the Flow value." alt="" coords="5,5,153,31"/>
+</map>

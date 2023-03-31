@@ -1,0 +1,5 @@
+<map id="unit_Flow_setDestiny" name="unit_Flow_setDestiny">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,152,56"/>
+<area shape="rect" id="node2" href="$class_flow.html#a66609d63cf29a174b9f39942b0565815" title="Get the Flow destiny." alt="" coords="200,5,319,31"/>
+<area shape="rect" id="node3" href="$class_flow.html#aba58328c690e77264560bede920db84b" title="Set the Destiny Flow." alt="" coords="200,55,319,80"/>
+</map>

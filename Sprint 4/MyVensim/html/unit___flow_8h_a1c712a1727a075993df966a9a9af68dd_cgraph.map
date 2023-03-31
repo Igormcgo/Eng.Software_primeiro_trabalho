@@ -1,0 +1,5 @@
+<map id="unit_Flow_clearOrigin" name="unit_Flow_clearOrigin">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,152,56"/>
+<area shape="rect" id="node2" href="$class_flow.html#af81bf8c5d707005527701084cf2a65f2" title="Clear the Flow origin." alt="" coords="200,5,319,31"/>
+<area shape="rect" id="node3" href="$class_flow.html#abb45b016bc3b6351cca07763374a7d12" title="Get the Flow origin." alt="" coords="205,55,314,80"/>
+</map>

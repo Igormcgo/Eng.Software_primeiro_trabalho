@@ -1,0 +1,5 @@
+<map id="unit_Model_beginSystem" name="unit_Model_beginSystem">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,173,56"/>
+<area shape="rect" id="node2" href="$class_model.html#a70362afdd9db6268b4adaedfeddb2935" title="Add a System to the Model." alt="" coords="249,5,335,31"/>
+<area shape="rect" id="node3" href="$class_model.html#ade910b2750663209cff3f7e1aecaa1d6" title="Returns the beginning of the System vector." alt="" coords="221,55,363,80"/>
+</map>

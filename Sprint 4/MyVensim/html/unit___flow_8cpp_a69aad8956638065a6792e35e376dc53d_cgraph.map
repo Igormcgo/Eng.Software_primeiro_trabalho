@@ -1,0 +1,5 @@
+<map id="unit_Flow_clearDestiny" name="unit_Flow_clearDestiny">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,161,56"/>
+<area shape="rect" id="node2" href="$class_flow.html#a34930b1443f5ba4c737a08f02acef963" title="Clear the Flow destiny." alt="" coords="209,5,339,31"/>
+<area shape="rect" id="node3" href="$class_flow.html#a66609d63cf29a174b9f39942b0565815" title="Get the Flow destiny." alt="" coords="215,55,333,80"/>
+</map>

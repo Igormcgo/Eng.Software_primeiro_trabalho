@@ -1,0 +1,5 @@
+<map id="LogisticFlow::execute" name="LogisticFlow::execute">
+<area shape="rect" id="node1" title="Purely virtual method that calculates the Flow value." alt="" coords="5,31,153,56"/>
+<area shape="rect" id="node2" href="$class_flow_imp.html#ae85a8fe3c01f93ba5bf231fe614dd37f" title="Get the Flow destiny." alt="" coords="201,5,341,31"/>
+<area shape="rect" id="node3" href="$class_system.html#a4c60d8b2625acf47c246008ba89cb04d" title="Get the System value." alt="" coords="208,55,335,80"/>
+</map>

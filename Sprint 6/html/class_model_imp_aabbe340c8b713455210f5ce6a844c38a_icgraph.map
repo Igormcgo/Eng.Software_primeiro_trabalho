@@ -1,0 +1,5 @@
+<map id="ModelImp::beginSystem" name="ModelImp::beginSystem">
+<area shape="rect" id="node1" title="Returns the beginning of the System vector." alt="" coords="235,31,397,56"/>
+<area shape="rect" id="node2" href="$class_model_handle.html#a6cca4f598124718772b7690d15070d9d" title="Returns the beginning of the System vector." alt="" coords="5,5,187,31"/>
+<area shape="rect" id="node3" href="$class_model_imp.html#a85a8de1a40ec62c2586ed8595a1a3e8f" title="Destroy the Model object." alt="" coords="21,55,171,80"/>
+</map>
